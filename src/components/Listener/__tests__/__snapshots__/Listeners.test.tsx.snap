@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`add listener that get names from host and validate it render component correctly 1`] = `
+<div>
+  <div>
+    <div
+      class="text-center"
+    >
+      <h1
+        class="mb-4 font-bold text-lg text-red-600"
+      >
+        Senin sıran
+      </h1>
+      <p
+        class="uppercase bg-yellow-400 p-2 text-white font-bold text-center mb-4"
+      >
+        Burak
+      </p>
+    </div>
+  </div>
+</div>
+`;

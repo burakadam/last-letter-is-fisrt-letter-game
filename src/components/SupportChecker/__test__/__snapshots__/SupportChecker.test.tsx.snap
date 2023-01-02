@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render if browser supports SpeechRecognition or speechSynthesis render component correctly 1`] = `
+<div
+  class="w-screen h-screen flex justify-center items-center p-10"
+>
+  <p
+    class="text-red-500 text-center"
+  >
+    Tarayıcınız güncel ses ve mikrofon kütüphanelerini desteklemiyor. Lütfen daha güncel bir sürüm ile tekrar deneyiniz.
+  </p>
+</div>
+`;

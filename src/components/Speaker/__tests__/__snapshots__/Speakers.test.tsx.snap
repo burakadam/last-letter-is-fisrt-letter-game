@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`add speaker that finds names from data/names.json with or without given name last letter render component correctly 1`] = `
+<div>
+  <h1
+    class="mb-4 font-bold text-lg text-red-600"
+  >
+    Benim sıram
+  </h1>
+  <p
+    class="uppercase bg-green-400 p-2 text-white font-bold text-center mb-4 w-auto"
+  >
+    Burak
+  </p>
+  <div
+    class="w-[200px] h-1 bg-slate-500 my-4"
+  />
+</div>
+`;

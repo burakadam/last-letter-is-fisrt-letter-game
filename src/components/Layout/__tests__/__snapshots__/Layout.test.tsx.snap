@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render app layout render "content is here" text inside layout 1`] = `
+<div
+  class="w-screen h-screen flex flex-col justify-center items-center p-10"
+>
+  Content is here
+</div>
+`;

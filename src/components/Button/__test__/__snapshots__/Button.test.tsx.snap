@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render simple button render component correctly 1`] = `
+<button
+  class="px-4 py-2 font-semibold text-sm bg-sky-500 text-white rounded-md shadow-sm opacity-100 hover:bg-sky-500/75"
+  type="button"
+>
+  Simple Button
+</button>
+`;

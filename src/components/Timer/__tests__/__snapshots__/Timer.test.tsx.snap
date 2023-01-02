@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render a timer end in 8 seconds render component 1`] = `
+<div>
+  8
+</div>
+`;
